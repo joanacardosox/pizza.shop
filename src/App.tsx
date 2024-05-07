@@ -3,7 +3,7 @@ import "./global.css";
 
 export function App() {
   return (
-    <div className="flex justify-center items-center h-screen">
+    <div className=" flex h-screen w-10 items-center bg-black justify-center">
       <Button>Enviar</Button>
     </div>
   );
